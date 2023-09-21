@@ -3,7 +3,7 @@
 
 1. The project is build by using Intellij Idea Community Edition 2023.2.
 2. The User interface for the System is Swing.
-3. The spring boot version is 3.1.3 and the dependency use is as follow:
+3. The spring boot version is 3.1.3 and the dependency used is as follow:
    - Spring Data JDBC
    - Lombok
    - MySQL Driver
